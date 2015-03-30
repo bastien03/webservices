@@ -26,6 +26,9 @@ public class Book {
     @JsonIgnore
     private int authorId;
 
+    @Column(unique = false)
+    private String imageUrl;
+
     public String getTitle() {
         return title;
     }
@@ -48,5 +51,13 @@ public class Book {
 
     public void setAuthorId(int authorId) {
         this.authorId = authorId;
+    }
+
+    public String getImageUrl() {
+        return imageUrl;
+    }
+
+    public void setImageUrl(String imageUrl) {
+        this.imageUrl = imageUrl;
     }
 }
