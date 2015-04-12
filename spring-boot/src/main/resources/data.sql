@@ -32,7 +32,9 @@ INSERT INTO book (id, title, year, AUTHOR_ID, IMAGE_URL) VALUES
     (30, 'Indignez-vous!', 2011, 22, 'https://saptestele.files.wordpress.com/2011/01/couverture-hessel_1_1_copie.jpg'),
     (31, 'CHE: Ernesto Guevara, une légende du siècle', 1998, 26, 'http://ecx.images-amazon.com/images/I/41144YkzPsL._SY344_BO1,204,203,200_.jpg'),
     (32, 'La Chute', 1956, 3, 'https://argoul.files.wordpress.com/2011/11/camus-la-chute.jpg'),
-    (33, 'Kane', 2001, 27, 'http://www.forbiddenplanet.co.uk/blog/wp2013/wp-content/uploads/2013/12/5571.jpg')
+    (33, 'Kane', 2001, 27, 'http://www.forbiddenplanet.co.uk/blog/wp2013/wp-content/uploads/2013/12/5571.jpg'),
+    (34, 'Powers', 2004, 28, 'http://static.comicvine.com/uploads/scale_large/6/62047/1284181-powers__0.5___page_1.jpg'),
+    (35, 'La peste', 1947, 3, 'http://www.images-booknode.com/book_cover/603/full/la-peste-603432.jpg')
 ;
 
 INSERT INTO author VALUES
@@ -62,5 +64,6 @@ INSERT INTO author VALUES
     (24, 'Serge Latouche'),
     (25, 'Bernard Oudin et Michèle Georges'),
     (26, 'Pierre Kalfon'),
-    (27, 'Paul Grist')
+    (27, 'Paul Grist'),
+    (28, 'Brian Michael Bendis')
 ;
