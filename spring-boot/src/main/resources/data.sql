@@ -34,7 +34,8 @@ INSERT INTO book (id, title, year, AUTHOR_ID, IMAGE_URL) VALUES
     (32, 'La Chute', 1956, 3, 'https://argoul.files.wordpress.com/2011/11/camus-la-chute.jpg'),
     (33, 'Kane', 2001, 27, 'http://www.forbiddenplanet.co.uk/blog/wp2013/wp-content/uploads/2013/12/5571.jpg'),
     (34, 'Powers', 2004, 28, 'http://static.comicvine.com/uploads/scale_large/6/62047/1284181-powers__0.5___page_1.jpg'),
-    (35, 'La peste', 1947, 3, 'http://www.images-booknode.com/book_cover/603/full/la-peste-603432.jpg')
+    (35, 'La peste', 1947, 3, 'http://www.images-booknode.com/book_cover/603/full/la-peste-603432.jpg'),
+    (36, 'Le Secret du céladon', 2008, 29, 'http://ecx.images-amazon.com/images/I/41Ab2LnvLLL.jpg')
 ;
 
 INSERT INTO author VALUES
@@ -65,5 +66,6 @@ INSERT INTO author VALUES
     (25, 'Bernard Oudin et Michèle Georges'),
     (26, 'Pierre Kalfon'),
     (27, 'Paul Grist'),
-    (28, 'Brian Michael Bendis')
+    (28, 'Brian Michael Bendis'),
+    (29, 'Michel Bugnon-Mordant')
 ;
