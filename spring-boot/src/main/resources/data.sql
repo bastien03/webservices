@@ -35,7 +35,12 @@ INSERT INTO book (id, title, year, AUTHOR_ID, IMAGE_URL) VALUES
     (33, 'Kane', 2001, 27, 'http://www.forbiddenplanet.co.uk/blog/wp2013/wp-content/uploads/2013/12/5571.jpg'),
     (34, 'Powers', 2004, 28, 'http://static.comicvine.com/uploads/scale_large/6/62047/1284181-powers__0.5___page_1.jpg'),
     (35, 'La peste', 1947, 3, 'http://www.images-booknode.com/book_cover/603/full/la-peste-603432.jpg'),
-    (36, 'Le Secret du céladon', 2008, 29, 'http://ecx.images-amazon.com/images/I/41Ab2LnvLLL.jpg')
+    (36, 'Le Secret du céladon', 2008, 29, 'http://ecx.images-amazon.com/images/I/41Ab2LnvLLL.jpg'),
+    (37, 'Martin Luther King', 2008, 30, 'http://www.phantasienreisen.de/wp-content/uploads/2012/02/martin-luther-king.jpg'),
+    (38, 'CASH - I see a darkness ', 2006, 31, 'http://www.carlsen.de/sites/default/files/styles/layer_480/public/produkt/cover/9783551768377.jpg?itok=fC4-X8q2'),
+    (39, 'Berlin, Band 1: Steinerne Stadt', 2004, 32, 'http://www.carlsen.de/sites/default/files/styles/layer_480/public/produkt/cover/9783551766748_0.jpg?itok=Try_cNtS'),
+    (40, 'Berlin, Band 2: Bleierne Stadt', 2008, 32, 'http://www.carlsen.de/sites/default/files/styles/layer_480/public/produkt/cover/9783551766762_0.jpg?itok=pHxF-185'),
+    (41, 'Houdini', 2008, 32, 'http://www.graphic-novel.info/wp-content/uploads/2008/06/cover_houdini.jpg')
 ;
 
 INSERT INTO author VALUES
@@ -67,5 +72,8 @@ INSERT INTO author VALUES
     (26, 'Pierre Kalfon'),
     (27, 'Paul Grist'),
     (28, 'Brian Michael Bendis'),
-    (29, 'Michel Bugnon-Mordant')
+    (29, 'Michel Bugnon-Mordant'),
+    (30, 'Ho Che Anderson'),
+    (31, 'Reinhard Kleist'),
+    (32, 'Jason Lutes')
 ;
