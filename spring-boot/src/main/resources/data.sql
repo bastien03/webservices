@@ -40,7 +40,8 @@ INSERT INTO book (id, title, year, AUTHOR_ID, IMAGE_URL) VALUES
     (38, 'CASH - I see a darkness ', 2006, 31, 'http://www.carlsen.de/sites/default/files/styles/layer_480/public/produkt/cover/9783551768377.jpg?itok=fC4-X8q2'),
     (39, 'Berlin, Band 1: Steinerne Stadt', 2004, 32, 'http://www.carlsen.de/sites/default/files/styles/layer_480/public/produkt/cover/9783551766748_0.jpg?itok=Try_cNtS'),
     (40, 'Berlin, Band 2: Bleierne Stadt', 2008, 32, 'http://www.carlsen.de/sites/default/files/styles/layer_480/public/produkt/cover/9783551766762_0.jpg?itok=pHxF-185'),
-    (41, 'Houdini', 2008, 32, 'http://www.graphic-novel.info/wp-content/uploads/2008/06/cover_houdini.jpg')
+    (41, 'Houdini', 2008, 32, 'http://www.graphic-novel.info/wp-content/uploads/2008/06/cover_houdini.jpg'),
+    (42, 'Plus rien que les vagues et le vent', 2014, 33, 'http://static.franceculture.fr/sites/default/files/imagecache/ressource_full/2014/07/07/4879696/couv%20plus%20rien%20que%20les%20vagues%20et%20le%20vent.JPG')
 ;
 
 INSERT INTO author VALUES
@@ -75,5 +76,6 @@ INSERT INTO author VALUES
     (29, 'Michel Bugnon-Mordant'),
     (30, 'Ho Che Anderson'),
     (31, 'Reinhard Kleist'),
-    (32, 'Jason Lutes')
+    (32, 'Jason Lutes'),
+    (33, 'Christine Montalbetti')
 ;
