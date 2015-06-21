@@ -41,7 +41,12 @@ INSERT INTO book (id, title, year, AUTHOR_ID, IMAGE_URL) VALUES
     (39, 'Berlin, Band 1: Steinerne Stadt', 2004, 32, 'http://www.carlsen.de/sites/default/files/styles/layer_480/public/produkt/cover/9783551766748_0.jpg?itok=Try_cNtS'),
     (40, 'Berlin, Band 2: Bleierne Stadt', 2008, 32, 'http://www.carlsen.de/sites/default/files/styles/layer_480/public/produkt/cover/9783551766762_0.jpg?itok=pHxF-185'),
     (41, 'Houdini', 2008, 32, 'http://www.graphic-novel.info/wp-content/uploads/2008/06/cover_houdini.jpg'),
-    (42, 'Plus rien que les vagues et le vent', 2014, 33, 'http://static.franceculture.fr/sites/default/files/imagecache/ressource_full/2014/07/07/4879696/couv%20plus%20rien%20que%20les%20vagues%20et%20le%20vent.JPG')
+    (42, 'Plus rien que les vagues et le vent', 2014, 33, 'http://static.franceculture.fr/sites/default/files/imagecache/ressource_full/2014/07/07/4879696/couv%20plus%20rien%20que%20les%20vagues%20et%20le%20vent.JPG'),
+    (43, 'Lettres à un ami allemand', 1945, 3, 'http://www.renaud-bray.com/ImagesEditeurs/PG/11/11816-gf.jpg'),
+    (44, 'L autoroute du soleil', 1995, 34, 'http://www.bedetheque.com/media/Couvertures/autoroutedusoleil01.jpg'),
+    (45, 'Le chemin de l Amérique', 1990, 34, 'http://bd.casterman.com/docs/Albums/38640/9782203035898.jpg'),
+    (46, 'Liebe schaut weg', 2007, 35, 'http://www.reprodukt.com/wp-content/uploads/9783938511664.jpg'),
+    (47, 'Mauretania', 1990, 36, 'http://1.bp.blogspot.com/-IqtXs8oQIeE/UhWHn3NOcSI/AAAAAAAAANE/eAVOhAtY_wI/s1600/Mauretania_Cover.jpg')
 ;
 
 INSERT INTO author VALUES
@@ -77,5 +82,8 @@ INSERT INTO author VALUES
     (30, 'Ho Che Anderson'),
     (31, 'Reinhard Kleist'),
     (32, 'Jason Lutes'),
-    (33, 'Christine Montalbetti')
+    (33, 'Christine Montalbetti'),
+    (34, 'Baru'),
+    (35, 'Line Hoven'),
+    (36, 'Chris Reynolds')
 ;
