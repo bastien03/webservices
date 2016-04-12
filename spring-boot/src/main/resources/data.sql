@@ -46,7 +46,27 @@ INSERT INTO book (id, title, year, AUTHOR_ID, IMAGE_URL) VALUES
     (44, 'L autoroute du soleil', 1995, 34, 'http://www.bedetheque.com/media/Couvertures/autoroutedusoleil01.jpg'),
     (45, 'Le chemin de l Amérique', 1990, 34, 'http://bd.casterman.com/docs/Albums/38640/9782203035898.jpg'),
     (46, 'Liebe schaut weg', 2007, 35, 'http://www.reprodukt.com/wp-content/uploads/9783938511664.jpg'),
-    (47, 'Mauretania', 1990, 36, 'http://1.bp.blogspot.com/-IqtXs8oQIeE/UhWHn3NOcSI/AAAAAAAAANE/eAVOhAtY_wI/s1600/Mauretania_Cover.jpg')
+    (47, 'Mauretania', 1990, 36, 'http://1.bp.blogspot.com/-IqtXs8oQIeE/UhWHn3NOcSI/AAAAAAAAANE/eAVOhAtY_wI/s1600/Mauretania_Cover.jpg'),
+    (48, 'Le premier homme', 1960, 3, 'http://ilsenparlent.org/wp-content/uploads/2013/03/le-premier-homme.jpg'),
+    (49, 'A moveable Feast', 1964, 37, 'http://ecx.images-amazon.com/images/I/51lVoALt-2L._SY344_BO1,204,203,200_.jpg'),
+    (50, 'Rien ou poser sa tête', 2015, 38, 'http://p2.storage.canalblog.com/21/44/1111954/107368745.jpg'),
+    (51, 'Quéquette blues', 1986, 34, 'http://a405.idata.over-blog.com/1/83/30/54/BD-2/quequette-blues-01.jpg'),
+    (52, 'Cours, camarade!', 1988, 34, 'http://www.bedetheque.com/media/Couvertures/Couv_15700.jpg'),
+    (53, 'Fais péter les basses, Bruno !', 2010, 34, 'http://www.futuropolis.fr/couv_G/790070.gif'),
+    (54, 'Vive la classe !', 1987, 34, 'http://www.bedetheque.com/media/Couvertures/Couv_120912.jpg'),
+    (55, 'Canicule', 2013, 34, 'http://cdn.lospaziobianco.it/wp-content/uploads/2014/10/can-cov.jpg'),
+    (56, 'Was ich noch sagen wollte', 2015, 39, 'http://www.br.de/radio/bayern2/kultur/radiotexte/was-ich-noch-sagen-wollte-buchcover-100~_v-img__3__4__xl_-f4c197f4ebda83c772171de6efadd3b29843089f.jpg?version=aae05'),
+    (57, 'De quelques idées reçues sur le monde contemporain', 2014, 40, 'http://editions.flammarion.com/docs/Albums/46510/9782081332768.jpg'),
+    (58, 'La France périphérique', 2015, 41, 'http://pmcdn.priceminister.com/photo/la-france-peripherique-comment-on-a-sacrifie-les-classes-populaires-de-christophe-guilluy-1040785315_L.jpg'),
+    (59, '2048 - La fin du monde', 2015, 42, 'https://arablit.files.wordpress.com/2015/09/2084couverture.jpg'),
+    (60, 'Le temps du twist', 1990, 43, 'http://sf.emse.fr/AUTHORS/JHOUSSIN/JH-LTDT-B.JPG'),
+    (61, 'En finir avec Eddy Bellegueule', 2014, 44, 'http://ecx.images-amazon.com/images/I/41b5PVpDHyL._SX340_BO1,204,203,200_.jpg'),
+    (62, 'Die Angst des Tormanns beim Elfmeter', 1968, 45, 'http://images.bookcrossing.com/images/journalpics/233/52/2337552.jpg'),
+    (63, 'Die Kunst des klarens Denkens', 2011, 46, 'http://ecx.images-amazon.com/images/I/41y3XYMLR-L._SX329_BO1,204,203,200_.jpg'),
+    (64, 'Le bruit des crampoms', 2016, 47, 'https://images-na.ssl-images-amazon.com/images/I/51x6vM9F4cL._SX331_BO1,204,203,200_.jpg'),
+    (65, 'Les justes', 1949, 3, 'http://ecx.images-amazon.com/images/I/41rxErxpLYL._SX319_BO1,204,203,200_.jpg'),
+    (66, 'How to Rob an Armored Car', 2009, 48, 'How to Rob an Armored Car')
+
 ;
 
 INSERT INTO author VALUES
@@ -85,5 +105,17 @@ INSERT INTO author VALUES
     (33, 'Christine Montalbetti'),
     (34, 'Baru'),
     (35, 'Line Hoven'),
-    (36, 'Chris Reynolds')
+    (36, 'Chris Reynolds'),
+    (37, 'Ernest Hemingway'),
+    (38, 'Françoise Frenkel'),
+    (39, 'Helmudt Schmidt'),
+    (40, 'Frédéric Encel'),
+    (41, 'Christophe Guilluy'),
+    (42, 'Boualem Sansal'),
+    (43, 'Joel Houssin'),
+    (44, 'Édouard Louis'),
+    (45, 'Peter Handke'),
+    (46, 'Rolf Dobelli'),
+    (47, 'Hughes Berthon'),
+    (48, 'Iain Levison')
 ;
